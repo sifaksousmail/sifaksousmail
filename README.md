@@ -1,14 +1,12 @@
-## Hi there 👋
-
 # Sifaks Ousmail
 
-PhD student and researcher in second language acquisition, AI-assisted language learning, and French pronunciation training.
+Researcher in second language acquisition, applied linguistics, and AI-assisted language learning.
 
-I build research-based educational tools, including EuuuhFrench AI, a French pronunciation learning app for Chinese-speaking learners.
+My work connects MPhil Research in Second Language Education at the University of Cambridge with software projects in French pronunciation learning. I build research-based educational tools, including EuuuhFrench AI, a French pronunciation learning app for Chinese-speaking learners.
 
 - Website: https://sifaks.com
 - App: https://app.sifaks.com
-- Research interests: SLA, pronunciation learning, applied linguistics, AI-assisted language education
+- Research interests: second language acquisition, French pronunciation learning, applied linguistics, AI-assisted language learning
 - GitHub: https://github.com/sifaksousmail
 
 Fun fact : I know how to do a backflip on ice. Reached Challenger on League of Legends. Each happened only once. Not in that order.
