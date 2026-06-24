@@ -8,5 +8,6 @@ My work connects MPhil Research in Second Language Education at the University o
 - App: https://app.sifaks.com
 - Research interests: second language acquisition, French pronunciation learning, applied linguistics, AI-assisted language learning
 - GitHub: https://github.com/sifaksousmail
+- Linkedin https://www.linkedin.com/in/sifaksousmail/
 
 Fun fact : I know how to do a backflip on ice. Reached Challenger on League of Legends. Each happened only once. Not in that order.
