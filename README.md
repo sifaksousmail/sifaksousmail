@@ -4,7 +4,7 @@ Researcher in second language acquisition, applied linguistics, and AI-assisted 
 
 I work on second language acquisition and applied linguistics, with a particular interest in computational linguistics. My research investigates computational approaches to L2 French pronunciation, combining phonetics, phonology, and learner speech data.
 
-Previous MPhil researcher in Second Language Education at the University of Cambridge. PhD now. Bbuild research-based educational tools for language learning, including Sifaks, a multilingual language learning app.
+Previous MPhil researcher in Second Language Education at the University of Cambridge. PhD now. Build research-based educational tools for language learning, including Sifaks, a multilingual language learning app.
 
 Fully proficient in French, English, Spanish, and Chinese.
 
