@@ -2,12 +2,16 @@
 
 Researcher in second language acquisition, applied linguistics, and AI-assisted language learning.
 
-My work connects MPhil Research in Second Language Education at the University of Cambridge with software projects in French pronunciation learning. I build research-based educational tools, including EuuuhFrench AI, a French pronunciation learning app for Chinese-speaking learners.
+I work on second language acquisition and applied linguistics, with a particular interest in computational linguistics. My research investigates computational approaches to L2 French pronunciation, combining phonetics, phonology, and learner speech data.
+
+Previous MPhil researcher in Second Language Education at the University of Cambridge. PhD now. Bbuild research-based educational tools for language learning, including Sifaks, a multilingual language learning app.
+
+Fully proficient in French, English, Spanish, and Chinese.
 
 - Website: https://sifaks.com
 - App: https://app.sifaks.com
 - Research interests: second language acquisition, French pronunciation learning, applied linguistics, AI-assisted language learning
 - GitHub: https://github.com/sifaksousmail
-- Linkedin https://www.linkedin.com/in/sifaksousmail/
+- LinkedIn: https://www.linkedin.com/in/sifaksousmail/
 
-Fun fact : I know how to do a backflip on ice. Reached Challenger on League of Legends. Each happened only once. Not in that order.
+Fun fact: I know how to do a backflip on ice. I also reached Challenger in League of Legends. Each happened only once. Not in that order.
