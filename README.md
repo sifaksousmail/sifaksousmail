@@ -1,6 +1,6 @@
 # Sifaks Ousmail
 
-Researcher in second language acquisition, applied linguistics, and AI-assisted language learning.
+Researcher in computational linguistics & second language acquisition 
 
 I work on second language acquisition and applied linguistics, with a particular interest in computational linguistics. My research investigates computational approaches to L2 French pronunciation, combining phonetics, phonology, and learner speech data.
 
